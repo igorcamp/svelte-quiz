@@ -1,0 +1,5 @@
+[
+    {"text": "perg1", "answers": [{"text": "blabla1", "correct": false}, {"text": "correta", "correct": true}, {"text": "blabla3", "correct": false}]},
+    {"text": "perg2", "answers": [{"text": "blabla1", "correct": false}, {"text": "correta", "correct": true}, {"text": "blabla3", "correct": false}]},
+    {"text": "perg3", "answers": [{"text": "blabla1", "correct": false}, {"text": "correta", "correct": true}, {"text": "blabla3", "correct": false}]}
+]
